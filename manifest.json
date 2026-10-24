@@ -1,0 +1,12 @@
+{
+  "name": "合账 · 微信支付宝记账",
+  "short_name": "合账",
+  "description": "把微信和支付宝账单合并在一起的手机记账 App",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "lang": "zh-CN",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
